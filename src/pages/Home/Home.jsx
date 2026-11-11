@@ -3,7 +3,7 @@ import "./Home.css";
 
 import Periodcare from "../../assets/icons/periodcarelogo.svg";
 import Github from "../../assets/icons/github.svg";
-import Paletio from "../../assets/icons/paletio.png";
+import Paletio from "../../assets/icons/paletio.jpeg";
 import ProjectCard from "./component/card.jsx";
 import Hero from "./component/hero.jsx"
 
