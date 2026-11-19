@@ -28,7 +28,7 @@ function Home() {
       description: "Developed a backend REST API for SukaKasir, a cashier and transaction management application, using Python and FastAPI. The project focuses on building structured and maintainable APIs to support product management, category management, supplier management, and sales transaction processing.",
       img: Github,
       try: "https://suka-kasir-backend.vercel.app/web/docs#/",
-      GitHubLink: "https://github.com/Fariz1703/periodcare"
+      GitHubLink: "https://github.com/Fariz1703/SukaPerpus_backend"
     },
     {
       id: 3,
@@ -70,8 +70,6 @@ function Home() {
         <div className="invisible-container">
           <h1 className="bigtitle">My Projects</h1>
         </div>
-
-
         <ProjectCard projects={projects} />
       </div>
     </div>
